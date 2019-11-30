@@ -1,0 +1,8 @@
+str = "my name is pooja"
+s= str.split()
+result=''
+for i in range(len(s)-1,-1,-1):
+  result = result+s[i]
+print(str)
+print(s)
+print(result)
