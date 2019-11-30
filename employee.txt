@@ -1,0 +1,5 @@
+Employee 1 details
+1. Name = 'pooja'
+2. Company = 'Intel'
+3. Adress = 'Bangalore'
+4. Fav Food = 'Biriyani'
