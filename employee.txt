@@ -3,3 +3,10 @@ Employee 1 details
 2. Company = 'Intel'
 3. Adress = 'Bangalore'
 4. Fav Food = 'Biriyani'
+
+
+Employee 2 deatisl
+1. Name = 'shruthi'
+2. Company = 'Intel'
+3. Adress = 'Bangalore'
+4. Fav Food = 'Dosa'
