@@ -1,0 +1,4 @@
+str = "my name is pooja"
+s= str.split()
+print(str)
+print(s)
