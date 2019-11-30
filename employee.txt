@@ -3,6 +3,7 @@ Employee 1 details
 2. Company = 'Intel'
 3. Adress = 'Bangalore'
 4. Fav Food = 'Biriyani'
+5. Fav Destination = 'Jermany'
 
 
 Employee 2 deatisl
@@ -10,5 +11,16 @@ Employee 2 deatisl
 2. Company = 'Intel'
 3. Adress = 'Bangalore'
 4. Fav Food = 'Dosa'
+5. Fav Destination = 'Switzerland'
+
+Employee 3 deatisl
+1. Name = 'Chaitu'
+2. Company = 'Intel'
+3. Adress = 'Bangalore'
+4. Fav Food = 'Dosa'
+5. Fav Destination = 'Bali'
+
+Chnages have been done
 
 Finally done
+
